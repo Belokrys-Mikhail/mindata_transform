@@ -1,6 +1,6 @@
 import pandas as pd
 
-filepath = r'C:\Users\Algis\Desktop\Belokrys\Программы\Min_modifier\samples\ok exp 2405.txt'
+filepath = r'~.txt'
 raw_data = pd.read_csv(filepath, header=None)
 
 for i in range(len(raw_data)):
