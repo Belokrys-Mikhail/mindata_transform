@@ -11,4 +11,4 @@ This script takes .txt file with raw data of FEI Quanta-600 mineral analysis whi
     level 1 - spectrum name.
   Columns:
     all existing chemical compounds in the sample;
-    total summ of spectrum compounds (if all is coeert it should be like 100.0 +/- 0.01).
+    total summ of spectrum compounds (if all is correct it should be like 100.0 +/- 0.01).
